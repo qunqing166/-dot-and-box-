@@ -1,0 +1,33 @@
+﻿  BoxBoard.cpp
+D:\code\VS\计问解\点格棋\点格棋\BoxBoard.cpp(106,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Game.cpp
+D:\code\VS\计问解\点格棋\点格棋\Board.h(7,1): warning C4005: “RED”: 宏重定义
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(49,1): message : 参见“RED”的前一个定义
+D:\code\VS\计问解\点格棋\点格棋\Board.h(8,1): warning C4005: “BLUE”: 宏重定义
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(46,1): message : 参见“BLUE”的前一个定义
+D:\code\VS\计问解\点格棋\点格棋\Game.cpp(132,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+D:\code\VS\计问解\点格棋\点格棋\Board.h(7,1): warning C4005: “RED”: 宏重定义
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(49,1): message : 参见“RED”的前一个定义
+D:\code\VS\计问解\点格棋\点格棋\Board.h(8,1): warning C4005: “BLUE”: 宏重定义
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(46,1): message : 参见“BLUE”的前一个定义
+  MCTS.cpp
+D:\code\VS\计问解\点格棋\点格棋\MCTS.cpp(24,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\VS\计问解\点格棋\点格棋\MCTS.cpp(55,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\VS\计问解\点格棋\点格棋\MCTS.cpp(83,19): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  player.cpp
+D:\code\VS\计问解\点格棋\点格棋\Board.h(7,1): warning C4005: “RED”: 宏重定义
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(49,1): message : 参见“RED”的前一个定义
+D:\code\VS\计问解\点格棋\点格棋\Board.h(8,1): warning C4005: “BLUE”: 宏重定义
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(46,1): message : 参见“BLUE”的前一个定义
+D:\code\VS\计问解\点格棋\点格棋\player.cpp(41,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\VS\计问解\点格棋\点格棋\player.cpp(65,36): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\VS\计问解\点格棋\点格棋\player.cpp(71,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\VS\计问解\点格棋\点格棋\player.cpp(99,36): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  ui.cpp
+D:\code\VS\计问解\点格棋\点格棋\ui.cpp(373,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ui_start.cpp
+  Board.cpp
+D:\code\VS\计问解\点格棋\点格棋\Board.cpp(133,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  点格棋.vcxproj -> D:\code\VS\计问解\点格棋\x64\Debug\点格棋.exe
